@@ -4,6 +4,7 @@ require 'selenium-webdriver'
 require 'capybara'
 require 'capybara/cucumber'
 require 'pry'
+require 'site_prism'
 
 
 
